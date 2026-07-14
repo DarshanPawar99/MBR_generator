@@ -1,0 +1,14 @@
+client: Telstra
+reporting_month: 2026-06
+template: templates/telstra/Telstra_MBR_Template.pptx
+output_dir: outputs/telstra
+slide_map:
+  1: reporting_month_and_client_name
+  2: executive_summary
+  3: kpi_cards
+  4: three_month_sales_trend
+  5: current_month_vs_previous_month
+  6: location_performance
+  7: restaurant_performance
+  8: feedback_analysis
+  9: business_insights
